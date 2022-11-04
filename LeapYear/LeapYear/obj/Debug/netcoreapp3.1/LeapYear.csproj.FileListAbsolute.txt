@@ -1,0 +1,14 @@
+C:\Users\naruto\Desktop\BrigeLabz\Day10\LeapYear\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.csproj.AssemblyReference.cache
+C:\Users\naruto\Desktop\BrigeLabz\Day10\LeapYear\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naruto\Desktop\BrigeLabz\Day10\LeapYear\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.AssemblyInfoInputs.cache
+C:\Users\naruto\Desktop\BrigeLabz\Day10\LeapYear\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.AssemblyInfo.cs
+C:\Users\naruto\Desktop\BrigeLabz\Day10\LeapYear\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.csproj.CoreCompileInputs.cache
+C:\Users\naruto\Desktop\BrigeLabz\Day10\LeapYear\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.exe
+C:\Users\naruto\Desktop\BrigeLabz\Day10\LeapYear\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.deps.json
+C:\Users\naruto\Desktop\BrigeLabz\Day10\LeapYear\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.runtimeconfig.json
+C:\Users\naruto\Desktop\BrigeLabz\Day10\LeapYear\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.runtimeconfig.dev.json
+C:\Users\naruto\Desktop\BrigeLabz\Day10\LeapYear\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.dll
+C:\Users\naruto\Desktop\BrigeLabz\Day10\LeapYear\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.pdb
+C:\Users\naruto\Desktop\BrigeLabz\Day10\LeapYear\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.dll
+C:\Users\naruto\Desktop\BrigeLabz\Day10\LeapYear\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.pdb
+C:\Users\naruto\Desktop\BrigeLabz\Day10\LeapYear\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.genruntimeconfig.cache
